@@ -5,9 +5,9 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
-
 import com.ab.bitmap.AbImageDownloader;
 import com.ab.global.AbConstant;
+import net.vicyu.wanku.R;
 
 public class FullScreen extends Activity {
 	private AbImageDownloader mAbImageDownloader = null;

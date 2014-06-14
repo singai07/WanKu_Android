@@ -3,6 +3,7 @@ package com.wanku.fragment;
 import java.util.List;
 import java.util.Map;
 
+import net.vicyu.wanku.R;
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -14,9 +15,6 @@ import android.widget.TextView;
 
 import com.ab.bitmap.AbImageDownloader;
 import com.ab.global.AbConstant;
-import com.wanku.R;
-import com.wanku.R.drawable;
-import com.wanku.R.id;
 
 /**
  * Copyright (c) 2011 All rights reserved 名称：MyListViewAdapter

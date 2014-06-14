@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 import com.ab.bitmap.AbImageDownloader;
 import com.ab.global.AbConstant;
-import com.wanku.R;
+import net.vicyu.wanku.R;
 
 import android.content.Context;
 import android.view.LayoutInflater;

@@ -29,7 +29,7 @@ import com.ab.task.AbTaskQueue;
 import com.ab.view.listener.AbOnListViewListener;
 import com.ab.view.pullview.AbPullListView;
 import com.wanku.FullQuery;
-import com.wanku.R;
+import net.vicyu.wanku.R;
 import com.wanku.tool.SimpleQueryJson;
 
 public class Fragment_ALL extends Fragment {
